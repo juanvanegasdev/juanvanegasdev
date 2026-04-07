@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Juan Andrés 👋
 
-<!--
-**juanvanegasdev/juanvanegasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Engineering student passionate about technology, software development, databases, and networking.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Interested in web development and backend systems
+- 🌐 Learning to build real-world software projects
+- 🛠️ Working with databases, networking and automation
+- 📍 Based in Colombia
+- 🎯 Looking for remote junior developer opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- HTML, CSS, JavaScript
+- Python
+- SQL / Oracle
+- Git & GitHub
+- Cisco Packet Tracer
+- Networking fundamentals
+- Database design
+
+## 📌 Current Goals
+- Build a strong portfolio on GitHub
+- Improve my coding and problem-solving skills
+- Land my first remote tech job
+
+## 📫 Contact
+- Email: your-email@example.com
+- LinkedIn: your-linkedin-url
