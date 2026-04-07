@@ -24,5 +24,7 @@ I'm a Systems Engineering student passionate about technology, software developm
 - Land my first remote tech job
 
 - ## 📫 Contact
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-url
+- Email: Vanegasjuanandres72@gmail.com
+- LinkedIn: www.linkedin.com/in/
+juan-vanegas-303765371
+
