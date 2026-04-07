@@ -9,7 +9,7 @@ I'm a Systems Engineering student passionate about technology, software developm
 - 📍 Based in Colombia
 - 🎯 Looking for remote junior developer opportunities
 
-## 🧰 Tech Stack
+- ## 🧰 Tech Stack
 - HTML, CSS, JavaScript
 - Python
 - SQL / Oracle
@@ -18,11 +18,11 @@ I'm a Systems Engineering student passionate about technology, software developm
 - Networking fundamentals
 - Database design
 
-## 📌 Current Goals
+- ## 📌 Current Goals
 - Build a strong portfolio on GitHub
 - Improve my coding and problem-solving skills
 - Land my first remote tech job
 
-## 📫 Contact
+- ## 📫 Contact
 - Email: your-email@example.com
 - LinkedIn: your-linkedin-url
